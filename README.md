@@ -2,7 +2,7 @@
 
 On-device crypto regime analysis, contextual inputs and historical backtest review.
 
-[Official product website](https://market-brief.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6758329388)
+[Official product website](https://market-brief.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6758329388) · [Side-by-side comparisons](https://market-brief.arte-soft.com/compare/) · [Guides & workflows](https://market-brief.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://market-brief.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
